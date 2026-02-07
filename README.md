@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anandhu</h1>
+<h3 align="center">Backend-focused Full Stack Developer (Django + React)</h3>
 
-<!--
-**AnandhuX07/AnandhuX07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- I build web applications using **Python and Django**
+- I focus more on **backend logic and APIs**
+- I am learning **React step by step**
+- I improve my skills by building real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+**Languages**
+- Python
+- JavaScript
+
+**Backend**
+- Django
+- Django REST Framework
+
+**Frontend**
+- React
+- HTML
+- CSS
+
+**Databases**
+- PostgreSQL
+- MySQL
+- SQLite
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+### 🚀 Projects
+My main projects are shown below in pinned repositories.
+
+- Task Management System
+- Todo Application
+- Course Management System
+
+---
+
+### 🎯 Current Focus
+- Django backend development
+- REST API design
+- React fundamentals
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/AnandhuX07
