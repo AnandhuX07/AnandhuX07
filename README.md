@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,mysql,github" />
 </p>
 
 ---
@@ -42,13 +42,11 @@ Full-stack Django + React application with enrollment and progress tracking.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandhuX07&show_icons=true&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandhuX07&layout=compact&theme=github_dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AnandhuX07&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandhuX07&layout=compact" />
+
 
 ---
 
