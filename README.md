@@ -1,58 +1,64 @@
-<h1 align="center">Hi 👋, I'm Anandhu</h1>
-<h3 align="center">Backend-focused Full Stack Developer (Django + React)</h3>
+<h1 align="center">Hi 👋, I'm Anandhakrishnan A N</h1>
+<p align="center">
+  Backend-focused Full Stack Developer | Django & React
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,mysql,git,github" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- I build web applications using **Python and Django**
-- I focus more on **backend logic and APIs**
-- I am learning **React step by step**
-- I improve my skills by building real projects
+## 👨‍💻 About Me
+- Backend-focused developer with strong interest in **Django & REST APIs**
+- Comfortable working with **databases and application logic**
+- Learning **React** to build complete full-stack applications
+- Believe in **building projects** over watching tutorials
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- JavaScript
-
-**Backend**
-- Django
-- Django REST Framework
-
-**Frontend**
-- React
-- HTML
-- CSS
-
-**Databases**
-- PostgreSQL
-- MySQL
-- SQLite
-
-**Tools**
-- Git
-- GitHub
-- VS Code
+**Languages:** Python, JavaScript  
+**Backend:** Django, Django REST Framework  
+**Frontend:** React, HTML, CSS  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-### 🚀 Projects
-My main projects are shown below in pinned repositories.
+## 🚀 Featured Projects
+🔹 **Task & Workflow Management System**  
+Django backend project with projects, tasks, workflow states, and permissions.
 
-- Task Management System
-- Todo Application
-- Course Management System
+🔹 **Todo Application**  
+Simple CRUD application focusing on clean backend logic.
 
----
+🔹 **Course Management System**  
+Full-stack Django + React application with enrollment and progress tracking.
 
-### 🎯 Current Focus
-- Django backend development
-- REST API design
-- React fundamentals
+> 📌 Pinned repositories below show detailed implementation.
 
 ---
 
-### 📫 Contact
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandhuX07&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandhuX07&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- Writing clean Django APIs
+- Improving database design
+- Strengthening React fundamentals
+
+---
+
+## 📫 Contact
 - GitHub: https://github.com/AnandhuX07
+
