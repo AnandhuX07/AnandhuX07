@@ -41,11 +41,12 @@ Full-stack Django + React application with enrollment and progress tracking.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnandhuX07&show_icons=true" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnandhuX07)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandhuX07&layout=compact" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnandhuX07)
+
 
 
 ---
